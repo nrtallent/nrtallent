@@ -8,16 +8,16 @@ Nathan Tallent
 
 # About
 
+* [Web page](https://hpc.pnnl.gov/people/tallent)
+
+* [Web page](https://www.pnnl.gov/people/nathan-tallent)
+
 <!--
-
-https://hpc.pnnl.gov/people/tallent
-https://hpc.pnnl.gov/people/tallent
-            
-https://www.pnnl.gov/people/nathan-tallent
-https://www.pnnl.gov/people/nathan-tallent
-
-https://github.com/perflab-exact
 
 -->
 
-# Work
+# Software
+
+* [Performance Lab for EXtreme Computing and daTa](https://github.com/perflab-exact)
+
+
