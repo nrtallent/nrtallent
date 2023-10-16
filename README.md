@@ -8,9 +8,9 @@ Nathan Tallent
 
 # About
 
-* [Web page](https://hpc.pnnl.gov/people/tallent)
+* [Web page (PNNL HPC Group)](https://hpc.pnnl.gov/people/tallent)
 
-* [Web page](https://www.pnnl.gov/people/nathan-tallent)
+* [Web page (PNNL)](https://www.pnnl.gov/people/nathan-tallent)
 
 <!--
 
