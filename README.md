@@ -2,19 +2,17 @@
 <!-- $Id$ -->
 
 
-Nathan R. Tallent @ PNNL
+Nathan R. Tallent
 =============================================================================
 
 
 # About
 
-* [Web page (PNNL HPC Group)](https://hpc.pnnl.gov/people/tallent)
-
-* [Web page (PNNL)](https://www.pnnl.gov/people/nathan-tallent)
+* PNNL: [HPC Group](https://hpc.pnnl.gov/people/tallent), [General](https://www.pnnl.gov/people/nathan-tallent)
 
 
 # Software
 
-* [Performance Lab for EXtreme Computing and daTa](https://github.com/perflab-exact)
+* [PNNL's Performance Lab for EXtreme Computing and daTa](https://github.com/perflab-exact)
 
 
