@@ -1,10 +1,10 @@
 <!-- -*-Mode: markdown;-*- -->
 <!-- $Id$ -->
 
-<!--
-Nathan Tallent
+
+Nathan R. Tallent @ PNNL
 =============================================================================
--->
+
 
 # About
 
@@ -12,9 +12,6 @@ Nathan Tallent
 
 * [Web page (PNNL)](https://www.pnnl.gov/people/nathan-tallent)
 
-<!--
-
--->
 
 # Software
 
